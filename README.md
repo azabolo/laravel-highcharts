@@ -1,0 +1,1 @@
+Highcharts library for Laravel.
